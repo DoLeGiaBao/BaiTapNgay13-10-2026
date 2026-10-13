@@ -1,0 +1,11 @@
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\bin\Debug\Bai4_8.exe.config
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\bin\Debug\Bai4_8.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\bin\Debug\Bai4_8.pdb
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\obj\Debug\Bai4_8.csproj.AssemblyReference.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\obj\Debug\Bai4_8.Form1.resources
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\obj\Debug\Bai4_8.FormStudent.resources
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\obj\Debug\Bai4_8.Properties.Resources.resources
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\obj\Debug\Bai4_8.csproj.GenerateResource.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\obj\Debug\Bai4_8.csproj.CoreCompileInputs.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\obj\Debug\Bai4_8.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiTapNgay13-10-2026\Bai4_8\Bai4_8\obj\Debug\Bai4_8.pdb
